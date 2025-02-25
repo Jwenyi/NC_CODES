@@ -1,2 +1,0 @@
-#$ -S /bin/sh
-SHELL

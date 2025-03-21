@@ -1,3 +1,0 @@
-#!FILEPATH
-#$ -S FILEPATH
-FILEPATH "$@"

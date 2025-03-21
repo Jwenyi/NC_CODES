@@ -1,3 +1,0 @@
-#!FILEPATH
-#$ -S FILEPATH
-FILEPATH -q do \"$1\" $2

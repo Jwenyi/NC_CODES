@@ -1,9 +1,0 @@
-*.pyc
-*.pdf
-como/cython_modules/*.c
-
-build/*
-dist/*
-*egg-info/*
-.DS_Store
-._*

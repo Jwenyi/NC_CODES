@@ -1,4 +1,0 @@
-pytables
-scipy
-pyzmq
-mysql-python

@@ -1,3 +1,0 @@
-[submodule "bin/jobmon"]
-	path = bin/jobmon
-	url = https://stash.ihme.washington.edu/scm/~tomflem/jobmon.git
